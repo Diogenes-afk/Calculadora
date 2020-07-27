@@ -1,0 +1,4 @@
+window.calculadora = new CalcColntroller;
+
+
+
